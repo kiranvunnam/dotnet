@@ -1,0 +1,10 @@
+C:\Users\kiran\OneDrive\Desktop\Assign3\Manukonda_Assign3\Manukonda_Assign3\obj\Debug\Manukonda_Assign3.csprojAssemblyReference.cache
+C:\Users\kiran\OneDrive\Desktop\Assign3\Manukonda_Assign3\Manukonda_Assign3\obj\Debug\Manukonda_Assign3.NIUAcademicPerformanceQuerySystem.resources
+C:\Users\kiran\OneDrive\Desktop\Assign3\Manukonda_Assign3\Manukonda_Assign3\obj\Debug\Manukonda_Assign3.Properties.Resources.resources
+C:\Users\kiran\OneDrive\Desktop\Assign3\Manukonda_Assign3\Manukonda_Assign3\obj\Debug\Manukonda_Assign3.csproj.GenerateResource.cache
+C:\Users\kiran\OneDrive\Desktop\Assign3\Manukonda_Assign3\Manukonda_Assign3\obj\Debug\Manukonda_Assign3.csproj.CoreCompileInputs.cache
+C:\Users\kiran\OneDrive\Desktop\Assign3\Manukonda_Assign3\Manukonda_Assign3\bin\Debug\Manukonda_Assign3.exe.config
+C:\Users\kiran\OneDrive\Desktop\Assign3\Manukonda_Assign3\Manukonda_Assign3\bin\Debug\Manukonda_Assign3.exe
+C:\Users\kiran\OneDrive\Desktop\Assign3\Manukonda_Assign3\Manukonda_Assign3\bin\Debug\Manukonda_Assign3.pdb
+C:\Users\kiran\OneDrive\Desktop\Assign3\Manukonda_Assign3\Manukonda_Assign3\obj\Debug\Manukonda_Assign3.exe
+C:\Users\kiran\OneDrive\Desktop\Assign3\Manukonda_Assign3\Manukonda_Assign3\obj\Debug\Manukonda_Assign3.pdb

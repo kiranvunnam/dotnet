@@ -1,0 +1,10 @@
+paper,paperboard-30
+Ewaste-10
+Metals-7
+Plastics-9
+Food Waste-10
+Glass-5
+Wood-5
+Medical Waste-10
+Chemical Waste-4
+other-10
